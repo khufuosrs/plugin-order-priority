@@ -71,4 +71,8 @@ public class NavigationButton
 	 * Map of key-value pairs for setting the popup menu
 	 */
 	private final Map<String, Runnable> popup;
+
+    public void setPriority(int newPriorityNumber) {
+
+    }
 }
