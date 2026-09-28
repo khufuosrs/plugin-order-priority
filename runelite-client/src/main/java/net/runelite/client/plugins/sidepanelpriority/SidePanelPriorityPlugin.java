@@ -21,7 +21,7 @@ import net.runelite.client.util.ImageUtil;
 
 @PluginDescriptor(
         name = "Plugin Order Priority",
-        description = "Allows users to sort and prioritize side panel icons.",
+        description = "Allows users to sort and prioritize plugin icons on the side bar.",
         tags = {"ui", "panel", "sort", "priority", "plugin", "order", "icon"}
 )
 @Slf4j
